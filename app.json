@@ -1,0 +1,11 @@
+{
+  "name": "bergold",
+  "description": "This is my personal website.",
+  "website": "bergold.me",
+  "repository": "https://github.com/bergold/bergold.me",
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-php"
+    }
+  ]
+}
